@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/26779935/218295120-b5546f4c-1a06-477b-
 Independent motion:
 https://user-images.githubusercontent.com/26779935/218295125-0c3860d9-d6b0-45c2-953e-ddac2765dc89.mp4
 
-During session:
+During session (Right top: Independet motion; Right bottom: Chasing motion):
 https://user-images.githubusercontent.com/26779935/218295095-c510be16-5728-44dc-b1f8-e5d64aba6fe3.mp4
