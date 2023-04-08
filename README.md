@@ -1,4 +1,4 @@
-# social_stimulus_preference
+# Demo videos
 
 Chasing motion:
 https://user-images.githubusercontent.com/26779935/218295109-dbd46185-7c2c-438d-982b-072715d827d6.mp4
