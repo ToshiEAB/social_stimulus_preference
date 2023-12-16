@@ -1,6 +1,6 @@
 # Source codes herein are for the following article
 
-KURODA, T., Ritchey, C. M., & Podlesnik, C. A. (2023). Selective effects of conspecific movement on social preference in zebrafish (Danio rerio) using real-time 3D tracking and 3D animation. Scientific Reports, 13, 10502. https://doi.org/10.1038/s41598-023-37579-y
+Kuroda, T., Ritchey, C. M., & Podlesnik, C. A. (2023). Selective effects of conspecific movement on social preference in zebrafish (Danio rerio) using real-time 3D tracking and 3D animation. Scientific Reports, 13, 10502. https://doi.org/10.1038/s41598-023-37579-y
 
 
 # Demo videos
